@@ -57,4 +57,12 @@ void resta (int num_a, num_b);
 	printf ("El resultado es de: %i ", num_a - num_b);
 }
 
+void multiplicacion (int num_a, num_b);
+{
+	printf ("El resultado es de: %i ", num_a * num_b);
+}
 
+void division (int num_a, num_b);
+{
+	printf ("El resultado es de: %i ", num_a / num_b);
+}
